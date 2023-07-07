@@ -105,7 +105,7 @@ if user == "continue":
   print()
   print("However, the establishment (It is known as i-engineering)\n got too 'powerful' so the guilds and citizens were scared of their power, they needed to do something about it.\n And soon the government of Leonia was involved.")
   print()
-  print("Besides the politics, most people go in dungeons to get stronger or richer.")
+  print("Besides the politics, most people go in dungeons to get stronger or richer, just like we will right now!.")
   print()
   print("It is time to start the game! \nI'm going to be your guide! It's time to choose your character.")
   print()
